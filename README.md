@@ -1,6 +1,6 @@
 # Ritual Mart
 
-Ritual Mart is a web application aimed at providing a convenient platform for all your pooja (ritual) needs. Whether you're looking for essential puja items, religious artifacts, or specialized products for specific ceremonies, Ritual Mart has got you covered.
+Ritual Mart is a website aimed at providing a convenient platform for all your pooja (ritual) needs. Whether you're looking for essential puja items, religious artifacts, or specialized products for specific ceremonies, Ritual Mart has got you covered.
 
 ## About
 
