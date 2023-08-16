@@ -1,25 +1,29 @@
-# Ritual Mart
+# ![Ritual Mart](https://ritualmart.com/img/Logo.svg) 
 
-Ritual Mart is a website aimed at providing a convenient platform for all your pooja (ritual) needs. Whether you're looking for essential puja items, religious artifacts, or specialized products for specific ceremonies, Ritual Mart has got you covered.
+I had the opportunity to lead the branding, design, and development of an MVP landing page for Ritual Mart, a startup aiming to make traditional rituals more accessible.
 
-## About
+The goal was to create a simplified platform to validate the idea of providing all needed ritual items and instructions in one convenient place. This MVP would allow testing demand before building out an entire e-commerce site.
 
-I had the opportunity to work with Ritual Mart, a startup based in India dedicated to providing a seamless shopping experience for customers seeking pooja essentials. As part of the project, I was responsible for planning everything from the color palette to the typography, ensuring a visually appealing and user-friendly design.
+## Crafting the Brand Identity
+As the sole contributor, I shaped Ritual Mart's brand identity for this early stage. The logo, colors, and typography aligned with the mission of hassle-free ritual participation.
 
-The goal of this project was to gauge public interest and validate the market demand for an online platform catering to pooja requirements. To assess user engagement and gather insights, we ran Google Ads campaigns, driving traffic to the Ritual Mart website and analyzing user interest.
+## Designing a Landing Page
+Using Tailwind CSS and user-centered principles, I designed an intuitive landing page MVP to introduce the concept and gauge interest.
 
-## Technologies Used
-
-- HTML
-- CSS (with Tailwind CSS framework)
+## Tech Stack
+- HTML, CSS, Tailwind CSS
 - JavaScript
 - PHP
-- CSV for data storage
+- CSV
 
-## Contact
+## Developing the Landing Page
+With the tech stack above, I built a user-friendly landing page. PHP collected user emails into a CSV file to continue validating the idea.
 
-For any inquiries or further information, please contact us at ritualmart.store@gmail.com.
+## Project Outcome
+Since the startup was discontinued, the founders kindly allowed me to publish the codebase on the GitHub repo.
 
----
+## Key Takeaways
+This comprehensive project enabled the quickly validating a concept through strategic branding, design, and development. I welcome discussions about creating this Ritual Mart MVP using Tailwind CSS and PHP.
+
 
 Created by [Sushant Kadam](https://github.com/sushantkadam15)

@@ -1,34 +1,33 @@
 /* Scroller styling */
-
-/* Sets the height and line height of the scroller element */
 .scroller {
-  height: 1.2em;
-  line-height: 1.2em;
-  position: relative;
-  overflow: hidden;
-}
+    height: 1.2em;
+    line-height: 1.2em;
+    position: relative;
+    overflow: hidden;
+  }
+  .scroller > span {
+    position: absolute;
+    top: 0;
+    animation: slide 5s infinite;
+    font-weight: bold;
+    color: #35d2e1;
+    
+  }
+  @keyframes slide {
+    0% {
+      top: 0;
+    }
+    25% {
+      top: -1.2em;
+    }
+    50% {
+      top: -2.4em;
+    }
+    75% {
+      top: -3.6em;
+    }
+  } 
+ 
 
-/* Styles the content within the scroller element */
-.scroller > span {
-  position: absolute;
-  top: 0;
-  animation: slide 5s infinite; /* Applies the slide animation to the content */
-  font-weight: bold;
-  color: #35d2e1;
-}
+ 
 
-/* Defines the slide animation */
-@keyframes slide {
-  0% {
-    top: 0; /* Starting position of the content */
-  }
-  25% {
-    top: -1.2em; /* Moves the content up by 1.2em */
-  }
-  50% {
-    top: -2.4em; /* Moves the content up by 2.4em */
-  }
-  75% {
-    top: -3.6em; /* Moves the content up by 3.6em */
-  }
-}
